@@ -35,7 +35,7 @@ body {
 }
 
 .ticket-visual_visual:before {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 130px;
@@ -48,7 +48,7 @@ body {
 }
 
 .ticket-visual_visual:after {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 130px;
@@ -68,7 +68,7 @@ body {
   border-radius: 15px;
 }
 .ticket-visual-wrapper:before {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 130px;
@@ -81,7 +81,7 @@ body {
 }
 
 .ticket-visual-wrapper:after {
-  content: '';
+  content: "";
   display: block;
   position: absolute;
   top: 130px;
